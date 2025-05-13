@@ -3,9 +3,9 @@
 
 #include <vector>
 #include <array>
-#include "../../src/ciphersuite/Magma.h"
-#include "../../src/ciphersuite/Kuznyechik.h"
-#include "../../src/kexp15kimp15/KExp15.h"
+#include "../../ReferenceImplementations/ciphersuite/Magma.h"
+#include "../../ReferenceImplementations/ciphersuite/Kuznyechik.h"
+#include "../../ReferenceImplementations/kexp15kimp15/KExp15.h"
 
 class KExp15Test {
 

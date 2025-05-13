@@ -3,7 +3,7 @@
 
 #include <cstdint>
 #include <array>
-#include "../../src/ciphersuite/Magma.h"
+#include "../../ReferenceImplementations/ciphersuite/Magma.h"
 
 class MagmaTest {
 

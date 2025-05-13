@@ -1,7 +1,7 @@
 #ifndef CRYPTOLIB_KDFHMACTEST_H
 #define CRYPTOLIB_KDFHMACTEST_H
 
-#include "../../src/kdf/KDF.h"
+#include "../../ReferenceImplementations/kdf/KDF.h"
 
 class KDFHMACTest {
 

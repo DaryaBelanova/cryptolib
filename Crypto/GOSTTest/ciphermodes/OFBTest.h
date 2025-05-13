@@ -1,9 +1,9 @@
 #ifndef CRYPTOLIB_OFBTEST_H
 #define CRYPTOLIB_OFBTEST_H
 
-#include "../../src/ciphermodes/OFB.h"
-#include "../../src/ciphersuite/Kuznyechik.h"
-#include "../../src/ciphersuite/Magma.h"
+#include "../../ReferenceImplementations/ciphermodes/OFB.h"
+#include "../../ReferenceImplementations/ciphersuite/Kuznyechik.h"
+#include "../../ReferenceImplementations/ciphersuite/Magma.h"
 
 class OFBTest {
 

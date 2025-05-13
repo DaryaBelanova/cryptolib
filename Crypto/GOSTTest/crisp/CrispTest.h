@@ -2,7 +2,7 @@
 #define CRYPTOLIB_CRISPTEST_H
 
 #include <vector>
-#include "../../src/crisp/CrispDriver.h"
+#include "../../ReferenceImplementations/crisp/CrispDriver.h"
 
 class CrispTest {
 

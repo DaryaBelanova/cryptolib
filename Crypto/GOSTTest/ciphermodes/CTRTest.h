@@ -1,9 +1,9 @@
 #ifndef CRYPTOLIB_CTRTEST_H
 #define CRYPTOLIB_CTRTEST_H
 
-#include "../../src/ciphermodes/CTR.h"
-#include "../../src/ciphersuite/Kuznyechik.h"
-#include "../../src/ciphersuite/Magma.h"
+#include "../../ReferenceImplementations/ciphermodes/CTR.h"
+#include "../../ReferenceImplementations/ciphersuite/Kuznyechik.h"
+#include "../../ReferenceImplementations/ciphersuite/Magma.h"
 
 class CTRTest {
 

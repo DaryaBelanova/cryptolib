@@ -1,8 +1,8 @@
 #ifndef CRYPTOLIB_HMACTEST_H
 #define CRYPTOLIB_HMACTEST_H
 
-#include "../../src/hmac/HMAC256.h"
-#include "../../src/hmac/HMAC512.h"
+#include "../../ReferenceImplementations/hmac/HMAC256.h"
+#include "../../ReferenceImplementations/hmac/HMAC512.h"
 
 class HMACTest {
 

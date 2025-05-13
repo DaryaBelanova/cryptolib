@@ -1,7 +1,8 @@
 #ifndef CRYPTOLIB_KUZNYECHIKTEST_H
 #define CRYPTOLIB_KUZNYECHIKTEST_H
 
-#include "../../src/ciphersuite/Kuznyechik.h"
+#include "../../ReferenceImplementations/ciphersuite/Kuznyechik.h"
+#include "Kuznyechik.h"
 
 class KuznyechikTest {
 

@@ -1,9 +1,9 @@
 #ifndef CRYPTOLIB_ECBTEST_H
 #define CRYPTOLIB_ECBTEST_H
 
-#include "../../src/ciphermodes/ECB.h"
-#include "../../src/ciphersuite/Kuznyechik.h"
-#include "../../src/ciphersuite/Magma.h"
+#include "../../ReferenceImplementations/ciphermodes/ECB.h"
+#include "../../ReferenceImplementations/ciphersuite/Kuznyechik.h"
+#include "../../ReferenceImplementations/ciphersuite/Magma.h"
 
 class ECBTest {
 

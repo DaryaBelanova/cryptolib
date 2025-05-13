@@ -1,9 +1,9 @@
 #ifndef CRYPTOLIB_CBCTEST_H
 #define CRYPTOLIB_CBCTEST_H
 
-#include "../../src/ciphermodes/CBC.h"
-#include "../../src/ciphersuite/Kuznyechik.h"
-#include "../../src/ciphersuite/Magma.h"
+#include "../../ReferenceImplementations/ciphermodes/CBC.h"
+#include "../../ReferenceImplementations/ciphersuite/Kuznyechik.h"
+#include "../../ReferenceImplementations/ciphersuite/Magma.h"
 
 class CBCTest {
 

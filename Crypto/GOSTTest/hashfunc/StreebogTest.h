@@ -1,8 +1,8 @@
 #ifndef CRYPTOLIB_STREEBOGTEST_H
 #define CRYPTOLIB_STREEBOGTEST_H
 
-#include"../../src/hashfunc/Streebog512.h"
-#include"../../src/hashfunc/Streebog256.h"
+#include"../../ReferenceImplementations/hashfunc/Streebog512.h"
+#include"../../ReferenceImplementations/hashfunc/Streebog256.h"
 
 class StreebogTest {
 

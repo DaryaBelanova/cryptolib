@@ -1,9 +1,9 @@
 #ifndef CRYPTOLIB_KDFCMACTEST_H
 #define CRYPTOLIB_KDFCMACTEST_H
 
-#include "../../src/kdf/KDF.h"
-#include "../../src/ciphermodes/CMAC.h"
-#include "../../src/ciphersuite/Magma.h"
+#include "../../ReferenceImplementations/kdf/KDF.h"
+#include "../../ReferenceImplementations/ciphermodes/CMAC.h"
+#include "../../ReferenceImplementations/ciphersuite/Magma.h"
 
 // According GOST P 71252-2024 only Magma is used in CRISP cryptographic suites, so only test cases for Magma present.
 
